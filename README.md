@@ -43,7 +43,7 @@ This project implements the **Strategy Design Pattern**, which allows the duck b
 ### Steps
 1. Compile the Java source files:
    ```bash
-   javac *.java
+   javac Main.java
    ```
 2. Run the application:
    ```bash
